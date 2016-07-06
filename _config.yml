@@ -1,14 +1,28 @@
-layout_spectrum: 0.09690174250863492
-typography_spectrum: 0.23709831736050546
+name: Light and Sound
+favicon: null
+layout_spectrum: 0.24789
+typography_spectrum: 0.97308
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.778559242375195
-  lightness: 0.3072000350803137
-  saturation: 0.8488361947238445
-  rhythmicContrast: 0.5106338986661285
   brandColors:
     - '#FF6600'
     - '#C13B00'
     - '#5E6D70'
     - '#424E4F'
     - '#1B1D1E'
-name: Light and Sound
+  brandStrength: 0.75
+  lightness: 0.3072000350803137
+  saturation: 0.8125
+  rhythmicContrast: 0.5106338986661285
+purpose: []
